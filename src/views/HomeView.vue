@@ -234,6 +234,7 @@
 .image2 {
   padding: 5px;
   background-color: white;
+  border-radius: 50%;
 }
 
 .wordings {
